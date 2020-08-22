@@ -2,7 +2,9 @@
 Список литературы, статей, различных документов tg канала @S_E_Book.
 Список будет дополняться каждую неделю, по мере нахождения полезного материала.
 Меню:
-- [Книги по информационной безопасности на анлийском языке.](https://github.com/SE-adm/Book/blob/master/README.md#ctf)
+- [Книги по информационной безопасности на анлийском языке.](https://github.com/SE-adm/Book/blob/master/README.md#android-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8-%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8)
+
+- [Книги по информационной безопасности на анлийском языке.](https://github.com/SE-adm/Book/blob/master/README.md#Информационная-безопасность.-Книги.-Eng)
 - [Social Engineering](#-Social-Engineering)
 
 ## Информационная безопасность. Книги. RU.
@@ -25,7 +27,7 @@
 * [Справочник законодательства РФ в области Информационной Безопасности.](https://t.me/S_E_Book/145) - Все специалисты по информационной безопасности рано или поздно сталкиваются с вопросами законодательного регулирования своей деятельности. Первой проблемой при этом обычно является поиск документов, где прописаны те или иные требования. Данный справочник призван помочь в этой беде и содержит подборку ссылок на основные законодательные и нормативно-правовые акты, регламентирующие применение информационных технологий и обеспечение информационной безопасности в Российской Федерации.
 [Руководство пользователя Metasploit Pro.](https://t.me/S_E_Book/94) - Руководство пользователя Metasploit Pro. Переведено на Русский язык.
 
-## Информационная безопасность ## Eng
+## Информационная безопасность. Книги. Eng
 * [The HACKer's HARDWARE TOOLKit.](https://t.me/S_E_Book/105) - Очень занимательная книга по хакерскому железу с описанием, примерной ценой и небольшой спецификой применения.
 * [CISSP All-in-One Exam Guide.](https://t.me/S_E_Book/112) - Get complete coverage of the latest release of the Certified Information Systems Security Professional (CISSP) exam inside this comprehensive, fully updated resource. Written by the leading expert in IT security certification and training, this authoritative guide covers all 10 CISSP exam domains developed by the International Information Systems Security Certification Consortium (ISC2). You'll find learning objectives at the beginning of each chapter, exam tips, practice exam questions, and in-depth explanations. Designed to help you pass the CISSP exam with ease, this definitive volume also serves as an essential on-the-job reference
 * [Hacking: Hacking Practical Guide for Beginners.](https://t.me/S_E_Book/118) - Hacking. In the digital age the word conjures up images of individuals in darkened basements, breaking into multi-national company’s computer systems, leaking sensitive information and living on takeaways – never seeing the light of day. But reality is very different and there are many, who are novices at hacking, living perfectly everyday lives, who are eager to learn more on the subject.
