@@ -27,6 +27,7 @@
 - [Honeypots.](#Honeypots)
 - [Форензика. Инструменты, книги, статьи, полезные ресурсы. RU \ Eng.](#Форензика)
 - [Сторонняя литература.](#Сторонняя-литература)
+- [Cheat Sheet.](#CheetSheat)
 - [Прочее.Ресурсы и статьи.](#Прочее)
 
 ## Информационная безопасность RU
@@ -147,6 +148,20 @@
 * [Pentesting Cheatsheet.](https://t.me/S_E_Book/1037)
 * [Responder - Cheatsheet.](https://t.me/S_E_Book/1039)
 * [THE COMPLETE HASHCAT TUTORIAL.](https://t.me/S_E_Book/1055)
+* [Инструменты для сканирования linux серверов на наличие вредоносных программ и руткитов.](https://t.me/S_E_Book/1062)
+* [Материал для изучения Mimikatz.](https://t.me/S_E_Book/1063)
+* [Mimikatz – Windows Tutorial for Beginner.](https://t.me/S_E_Book/1096)
+* [Базовый курс по веб-безопасности, от Стэнфордского университета.](https://t.me/S_E_Book/1064)
+* [Бесплатный курс по взлому от HackerOne.](https://t.me/S_E_Book/1100)
+* [Новое применение Captive Portal для проведения MiTM атак.](https://t.me/S_E_Book/1109)
+* [Взлом банкоматов. Конференция DEF CON.](https://t.me/S_E_Book/1072)
+* [Penetration Testing Using Armitage.](https://t.me/S_E_Book/1073)
+* [Основы Linux - полезные сетевые команды.](https://t.me/S_E_Book/1075)
+* [MiTM Attack with Ettercap.](https://t.me/S_E_Book/1089)
+* [Атаки на домен.](https://t.me/S_E_Book/1095) - При проведении тестирований на проникновение мы довольно часто выявляем ошибки в конфигурации домена. Хотя многим это не кажется критичным, в реальности же такие неточности могут стать причиной компрометации всего домена.
+* [Tradecraft.](https://t.me/S_E_Book/1117) - это курс действий red team. Ты научишься проводить целевую атаку как внешний субъект с Cobalt Strike. В этом сегменте представлены Metasploit Framework, Cobalt Strike, и вы узнаете, как организованы оба этих инструмента.
+
+
 
 ## Сетевые технологии RU
 Администрирование, Книги и курсы на Русском языке.
@@ -225,6 +240,7 @@
 * [Курс. Python. Полное руководство (2019)](https://t.me/S_E_Book/305) - Впервые в одном курсе связка Python и Tkinter GUI, Идеален для начинающих, низкий порог входа, Универсальный мощный язык под любые платформы, Получите много практики и 4 работы в портфолиоБыстрый старт и пошаговый план действий для новичков, Модули и библиотеки под большинство задачРеальная востребованность на рынке даже для новичков.
 * [Как устроен Python. Гид для разработчиков, программистов и интересующихся | Харрисон М.](https://t.me/S_E_Book/424) - Python - самый популярный язык программирования. Вакансии для Python-разработчиков входят в список самых высокооплачиваемых, а благодаря бурному развитию обработки данных, знание Python становится одним из самых востребованных навыков в среде аналитиков.
 * [Курс - Полное руководство по Python 3: от новичка до специалиста (2019).](https://t.me/S_E_Book/425) - Чему вы научитесь: Писать простые программы на Python 3. Как писать простые игры типа крестиков-ноликов. Логика с условиями и циклами. Объектно-ориентированное программирование на Python. Использование Jupyter Notebook. Использование коллекций в Python: списки, словари и так далее. Декораторы. Неизменяемые объекты. Лучшие практики по написанию "чистого" кода на Python. Введение в SQL и PostgreSQL.
+* [Python. Экспресс-курс | Седер Наоми.](https://t.me/S_E_Book/1107) - Впервые на русском языке выходит новое издание одной из самых популярных книг издательства Manning. С помощью этой книги вы можете быстро перейти от основ к управлению и структурам данных, чтобы создавать, тестировать и развертывать полноценные приложения. Наоми Седер рассказывает не только об основных особенностях языка Python, но и его объектно-ориентированных возможностях, которые появились в Python 3. Данное издание учитывает все изменения, которые произошли с языком за последние 5 лет, а последние 5 глав рассказывают о работе с большими данными.
 
 ## Программирование Eng
 Книги по программированию на Английском языке.
@@ -236,8 +252,8 @@
 * [Effective Python Penetration Testing.](https://t.me/S_E_Book/763) - Penetration testing is a practice of testing a computer system, network, or web application to find weaknesses in security that an attacker can exploit. Effective Python Penetration Testing will help you utilize your Python scripting skills to safeguard your networks from cyberattacks. We will begin by providing you with an overview of Python scripting and penetration testing. You will learn to analyze network traffic by writing Scapy scripts and will see how to fingerprint web applications with Python libraries such as ProxMon and Spynner.
 * [Python for Offensive PenTest.](https://t.me/S_E_Book/792) - This book is packed with step-by-step instructions and working examples to make you a skilled penetration tester. It is divided into clear bite-sized chunks, so you can learn at your own pace and focus on the areas of most interest to you. This book will teach you how to code a reverse shell and build an anonymous shell. You will also learn how to hack passwords and perform a privilege escalation on Windows with practical examples. You will set up your own virtual hacking environment in VirtualBox, which will help you run multiple operating systems for your testing environment.
 * [Learning Python Networking.](https://t.me/S_E_Book/794) - Starting with a walk through of today's major networking protocols, through this book, you'll learn how to employ Python for network programming, how to request and retrieve web resources, and how to extract data in major formats over the web. You will utilize Python for emailing using different protocols, and you'll interact with remote systems and IP and DNS networking. You will cover the connection of networking devices and configuration using Python 3.7, along with cloud-based network management tasks using Python.
+* [Python Crash Course: A Hands-On, Project-Based Introduction to Programming.](https://t.me/S_E_Book/1113) - In the first half of the book, you'll learn about basic programming concepts, such as lists, dictionaries, classes, and loops, and practice writing clean and readable code with exercises for each topic. You'll also learn how to make your programs interactive and how to test your code safely before adding it to a project. In the second half of the book, you'll put your new knowledge into practice with three substantial projects: a Space Invaders-inspired arcade game, data visualizations with Python's super-handy libraries, and a simple web app you can deploy online.
 * [Python System Administration.](https://t.me/S_E_Book/1013)
-
 
 ## Arduino RU
 Книги, видео, полезный материал на тему Arduino. На Русском языке.
@@ -249,6 +265,7 @@
 * [Схемы подключения разного железа к Arduino. Без примеров кода.](https://t.me/S_E_Book/432)
 * [Простейший сниффер на ESP8266.](https://t.me/S_E_Book/506) - Использование ESP8266 для подсчета уникальных mac-адресов wifi устройств в зоне приема.
 * [Атака на банкомат с помощью Raspberry Pi.](https://t.me/S_E_Book/660)
+* [Arduino-reference.](https://t.me/S_E_Book/1111) - Полный список команд языка Ардуино. По ссылке представлен список всех (или почти всех) доступных “из коробки” команд для Arduino с кратким описанием и примерами.
 
 ## Arduino Eng
 Книги, видео, полезный материал на тему Arduino. На Английском языке.
@@ -258,7 +275,9 @@
 
 ## Reverse Eng
 * [Android App Reverse Engineering.](https://t.me/S_E_Book/837) - Бесплатный курс по реверсу Android приложений.
+* [Android Apk Reverse Engineering.](https://t.me/S_E_Book/1069)
 * [Reverse Engineering/Forensics/Malware Analysis/Cybercrime Research – General Resources.](https://t.me/S_E_Book/1030)
+
 
 
 ## Bug Hunting Eng
@@ -285,6 +304,8 @@
 ## CTF
 * [Список библиотек, ресурсов, ПО и учебных пособий.](https://t.me/S_E_Book/608)
 * [Exploits in Wetware by Robert Sell.](https://t.me/S_E_Book/904) - В этом ролике, Rober Sell делится своим опытом неоднократного участия в DEF CON CTF, демонстрируя, насколько легко добыть конфиденциальную информацию из любой организации. Рассказывает, как добыл сотни «точек данных» целевой организации, применяя методы OSINT, а так же без особых усилий смог добыть у своей жертвы информацию о VPN, ОС, об уровне патчей, номера мобильников топ-менеджеров и места их жительства.
+* [Essential CTF Tools.](https://t.me/S_E_Book/1084)
+
 
 ## Android
 Безопасность, приложения, книги, статьи.
@@ -338,10 +359,6 @@
 * [Викиликс: Секретные файлы.](https://t.me/S_E_Book/659) - Под редакцией Джулиана Ассанжа.
 * [WikiLeaks: Разоблачения, изменившие мир.](https://t.me/S_E_Book/907) - В этой книге собраны все самые последние и сенсационные материалы с сайта Wikileaks Джулиана Ассанжа.
 
-## Изучение английского языка
-* [Английский язык для специалистов в области интернет-технологий.](https://t.me/S_E_Book/26) - Книга нацелена на формирование и развитие у читателей навыков использования английского языка в сфере профессиональной коммуникации. В конце издания представлены тесты для текущего контроля знаний, дополнительные тексты для аннотирования и задания для устного тестирования, а также даны ключи и ответы к некоторым заданиям.
-* [Очень много YouTube-каналов для прокачки английского языка для программистов.](https://t.me/S_E_Book/860) - С помощью YouTube можно ощутимо и сравнительно быстро улучшить английский. Понимание на слух как минимум. Истина не нова, но мало кто смотрит английский YouTube, потому что легко потеряться в бесконечности каналов. Но для вас я собрал самые стоящие каналы! 
-
 ## Honeypots
 * [Honeypots and Routers: Collecting Internet Attacks.](https://t.me/S_E_Book/979) - As the number of Internet-based consumer transactions continues to rise, the need to protect these transactions against hacking becomes more and more critical. An effective approach to securing information on the Internet is to analyze the signature of attacks in order to build a defensive strategy. This book explains how to accomplish this using honeypots and routers. It discusses honeypot concepts and architecture as well as the skills needed to deploy the best honeypot and router solutions for any network environment.
 
@@ -352,6 +369,7 @@
 * [Подборка бесплатных утилит компьютерной криминалистики (форензики).](https://t.me/S_E_Book/448)
 * [Форензика. Бесплатные инструменты и ресурсы с открытым исходным кодом.](https://t.me/S_E_Book/600)
 * [Полезные материалы об особенностях форензики в Windows 10.](https://t.me/S_E_Book/652)
+* [Форензика. Теория и практика расследования киберпреступлений. Шелупанов А.А, Смолина А.Р](https://t.me/S_E_Book/652) - В книге представлен анализ существующих подходов в современной отечественной практике расследования киберпреступлений. На основе накопленного практического опыта проведения экспертиз преступлений в сфере высоких технологий предложен подход по их унификации. Будет полезна преподавателям, аспирантам и студентам, обучающимся по направлениям в области юриспруденции, защиты информации, информационной безопасности.
 * [Volatility Framework.](https://t.me/S_E_Book/673) - фреймворк для исследования образов содержимого оперативной памяти и извлечения цифровых артефактов из энергозависимой памяти (RAM).
 * [Learning Network Forensics.](https://t.me/S_E_Book/726) - The book starts with an introduction to the world of network forensics and investigations. You will begin by getting an understanding of how to gather both physical and virtual evidence, intercepting and analyzing network data, wireless data packets, investigating intrusions, and so on. You will further explore the technology, tools, and investigating methods using malware forensics, network tunneling, and behaviors. By the end of the book, you will gain a complete understanding of how to successfully close a case.
 * [Practical Windows Forensics.](test) - Over the last few years, the wave of the cybercrime has risen rapidly. We have witnessed many major attacks on the governmental, military, financial, and media sectors. Tracking all these attacks and crimes requires a deep understanding of operating system operations, how to extract evident data from digital evidence, and the best usage of the digital forensic tools and techniques. Regardless of your level of experience in the field of information security in general, this book will fully introduce you to digital forensics. It will provide you with the knowledge needed to assemble different types of evidence effectively, and walk you through the various stages of the analysis process.
@@ -364,6 +382,31 @@
 * [Форензика Android: взлом графического ключа.](https://t.me/S_E_Book/1001)
 * [10 инструментов для форензики, которые работают в Linux.](https://t.me/S_E_Book/1047)
 * [Top 20 Free Digital Forensic Investigation Tools for SysAdmins.](https://t.me/S_E_Book/1048)
+* [Awesome Forensics.](https://t.me/S_E_Book/1094) - Curated list of awesome free (mostly open source) forensic analysis tools and resources.
+
+
+## Изучение английского языка
+* [Английский язык для специалистов в области интернет-технологий.](https://t.me/S_E_Book/26) - Книга нацелена на формирование и развитие у читателей навыков использования английского языка в сфере профессиональной коммуникации. В конце издания представлены тесты для текущего контроля знаний, дополнительные тексты для аннотирования и задания для устного тестирования, а также даны ключи и ответы к некоторым заданиям.
+* [Очень много YouTube-каналов для прокачки английского языка для программистов.](https://t.me/S_E_Book/860) - С помощью YouTube можно ощутимо и сравнительно быстро улучшить английский. Понимание на слух как минимум. Истина не нова, но мало кто смотрит английский YouTube, потому что легко потеряться в бесконечности каналов. Но для вас я собрал самые стоящие каналы!
+
+## CheatSheet
+* [Wireshark.Cheat Sheet.](https://t.me/S_E_Book/1052)
+* [Wireshark display filters.Cheat Sheet.](https://t.me/S_E_Book/1103)
+* [Metasploit.Cheat Sheet.](https://t.me/S_E_Book/1053)
+* [Metasploit.Cheat Sheet. v2.](https://t.me/S_E_Book/1093)
+* [Kali Linux. Cheat Sheet.](https://t.me/S_E_Book/1054)
+* [Hydra. Cheat Sheet.](https://t.me/S_E_Book/1070)
+* [Nmap. Cheat Sheet.](https://t.me/S_E_Book/1071)
+* [Empire. Cheat Sheet.](https://t.me/S_E_Book/1078)
+* [PowerSploit. Cheat Sheet.](https://t.me/S_E_Book/1079)
+* [Penetration Testing Tools. Cheat Sheet.](https://t.me/S_E_Book/1090)
+* [Aircrack-ng. Cheat Sheet.](https://t.me/S_E_Book/1091)
+* [Linux Commands. Cheat Sheet.](https://t.me/S_E_Book/1092)
+* [OSINT. Cheat Sheet.](https://t.me/S_E_Book/1101)
+* [SQLMap. Cheat Sheet.](https://t.me/S_E_Book/1105)
+* [JavaScript. Cheat Sheet.](https://t.me/S_E_Book/1112)
+* [Python Cheat Sheet.](https://t.me/S_E_Book/1112)
+* [Python Cheat Sheet. v2.](https://t.me/S_E_Book/1116)
 
 ## Прочее
 Ресурсы и статьи.
@@ -401,3 +444,8 @@
 * [История одного взлома или учитесь на чужих ошибках.](https://t.me/S_E_Book/988)
 * [Сколько стоит взломать почту: небольшой анализ рынка хакеров по найму.](https://t.me/S_E_Book/989)
 * [Useful PuTTY Configuration Tips and Tricks.](https://t.me/S_E_Book/1015)
+* [Автоматический поиск общедоступных веб-камер в Интернете.](https://t.me/S_E_Book/1065)
+* [Тайны файла подкачки pagefile.sys: полезные артефакты для компьютерного криминалиста.](https://t.me/S_E_Book/1076) - pagefile.sys — это файл подкачки операционной системы Windows. При нехватке оперативной памяти Windows резервирует определенное место на жестком диске и использует его для увеличения своих возможностей. Иными словами, выгружает часть данных из оперативной памяти в файл pagefile.sys. Очень часто необходимые для исследователя сведения остаются только в файле подкачки.
+* [RedTeam Gadgets.](https://t.me/S_E_Book/1081)
+* [Список руководств, инструментов и других ресурсов, связанных с безопасностью и взломом замков, сейфов и ключей.](https://t.me/S_E_Book/1104)
+* [Awesome IoT Hacks.](https://t.me/S_E_Book/1108)
