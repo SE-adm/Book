@@ -20,6 +20,7 @@
 - [Malware analysis. Книги и курсы на Английском языке.](#Malware-analysis-Eng)
 - [CTF.](#CTF)
 - [Android. Безопасность, приложения, книги, статьи.](#Android)
+- [Termux.](#Termux)
 - [iOS. Безопасность, приложения, книги, статьи.](#iOS)
 - [Материал на тему анонимности и безопасности в сети и в реальной жизни.](#Анонимность-и-безопасность)
 - [OSINT. Книги, ресурсы, полезный материал.](#OSINT)
@@ -101,10 +102,7 @@
 * [Mastering Kubernetes: Large scale container deployment and management.](https://t.me/S_E_Book/1021) - This book mainly focuses on the advanced management of Kubernetes clusters. It covers problems that arise when you start using container orchestration in production. We start by giving you an overview of the guiding principles in Kubernetes design and show you the best practises in the fields of security, high availability, and cluster federation.
 * [Rootkits and Bootkits: Reversing Modern Malware and Next Generation Threats.](https://t.me/S_E_Book/417) - Ценнейший сборник информации о руткитах и буткитах, алгоритмах их работы, особенностях реализации в ОС, методах детектирования и противодействия.
 * [Linux Command Library.](https://t.me/S_E_Book/583) - Самоучитель в котором собраны основные команды, используемые при работе с UNIX системами.
-* [Termux шаг за шагом.](https://t.me/S_E_Book/672)
-* [Шпаргалка по Linux.](https://t.me/S_E_Book/742)
 * [Kali Linux 2018.](https://t.me/S_E_Book/821) - Windows Penetration Testing: Conduct network testing, surveillance, and pen testing on MS Windows using Kali Linux 2018, 2nd Edition.
-* [Шпаргалка по командам UNIX / LINUX ( Полезно начинающим ).](https://t.me/S_E_Book/895)
 
 ## Информационная безопасность Manual
 Дополнительный полезный материал: софт, ресурсы, подборки, мануалы, статьи и многое другое...
@@ -134,19 +132,15 @@
 * [Атаки на SIP.](https://t.me/S_E_Book/875)
 * [Пентест FTP сервера с помощью Kali Linux.](https://t.me/S_E_Book/881)
 * [Огромное количество шпаргалок которые помогут тебе при пентесте.](https://t.me/S_E_Book/884)
-* [Шпаргалка по SQL-инъекциям.](https://t.me/S_E_Book/888)
 * [XSS Payloads, getting past alert.](https://t.me/S_E_Book/889)
 * [PENTESTING CHEATSHEET.](https://t.me/S_E_Book/892)
 * [Большой пак материала который поможет тебе при пентесте.](https://t.me/S_E_Book/894)
 * [Постэксплуатация в Windows.](https://t.me/S_E_Book/896) - Инструменты, руководства, методы, команды и т.д.
 * [XSS Payload List - Cross Site Scripting.](https://t.me/S_E_Book/897)
-* [Шпаргалка по Metasploit.](https://t.me/S_E_Book/898)
 * [USING POWERSHELL FOR PENTESTING IN KALI LINUX.](https://t.me/S_E_Book/906)
 * [RATKing: новая кампания с троянами удаленного доступа.](https://t.me/S_E_Book/948)
 * [Атаки на трасты между доменами.](https://t.me/S_E_Book/960)
 * [getgophish.](https://t.me/S_E_Book/992) - Фреймворк с открытым исходным кодом для фишинга.
-* [Pentesting Cheatsheet.](https://t.me/S_E_Book/1037)
-* [Responder - Cheatsheet.](https://t.me/S_E_Book/1039)
 * [THE COMPLETE HASHCAT TUTORIAL.](https://t.me/S_E_Book/1055)
 * [Инструменты для сканирования linux серверов на наличие вредоносных программ и руткитов.](https://t.me/S_E_Book/1062)
 * [Материал для изучения Mimikatz.](https://t.me/S_E_Book/1063)
@@ -196,9 +190,7 @@
 * [Иллюстрированное соединение через TLS.](https://t.me/S_E_Book/876) - Каждый байт соединения TLS объяснен и воспроизведен. 
 * [Instant Netcat Starter.](https://t.me/S_E_Book/886) - This book explores the classic Netcat utility, and breaks down the common ways in which it can be utilized in the field. Beginning with compilation and installation, this book quickly has you utilizing the core features of the utility to perform file transfers regardless of commonly blocked firewall ports, perform real-world interrogation of services and listening ports to discover the true intention of an application or service, and tunnelling remotely into systems to produce remote command shells.
 * [Nmap Essentials.](https://t.me/S_E_Book/923) - This book is for beginners who wish to start using Nmap, who have experience as a system administrator or of network engineering, and who wish to get started with Nmap.
-* [Шпаргалка по Tcpdump.](https://t.me/S_E_Book/1031)
 * [tcpdump — чтение tcp-флагов.](https://t.me/S_E_Book/1031)
-* [Nmap - Cheatsheet.](https://t.me/S_E_Book/1039)
 * [Mastering Windows Server 2019, Second Edition.](https://t.me/S_E_Book/714) - Mastering Windows Server 2019 – Second Edition covers all of the essential information needed to implement and utilize this latest-and-greatest platform as the core of your data center computing needs. You will begin by installing and managing Windows Server 2019, and by clearing up common points of confusion surrounding the versions and licensing of this new product. Centralized management, monitoring, and configuration of servers is key to an efficient IT department, and you will discover multiple methods for quickly managing all of your servers from a single pane of glass. To this end, you will spend time inside Server Manager, PowerShell, and even the new Windows Admin Center, formerly known as Project Honolulu. Even though this book is focused on Windows Server 2019 LTSC, we will still discuss containers and Nano Server, which are more commonly related to the SAC channel of the server platform, for a well-rounded exposition of all aspects of using Windows Server in your environment. We also discuss the various remote access technologies available in this operating system, as well as guidelines for virtualizing your data center with Hyper-V. By the end of this book, you will have all the ammunition required to start planning for, implementing, and managing Windows.
 * [Linux Administration Cookbook.](test) - Установка и управление сервером Linux как локально, так и в облаке, Понять, как выполнять администрирование во всех дистрибутивах Linux, Прорабатывайте такие концепции, как IaaS и PaaS, контейнеры и автоматизация, Ознакомьтесь с рекомендациями по безопасности и настройке, Устраните неполадки в вашей системе, если что-то пойдет не так, Обнаружение и устранение аппаратных проблем, таких как неисправная память и неисправные диски;
 * [Understanding Linux Network Internals.](https://t.me/S_E_Book/882) - If you've ever wondered how Linux carries out the complicated tasks assigned to it by the IP protocols -- or if you just want to learn about modern networking through real-life examples -- Understanding Linux Network Internals is for you.
@@ -245,15 +237,15 @@
 ## Программирование Eng
 Книги по программированию на Английском языке.
 
-* [Modern Python Cookbook: The latest in modern Python recipes for the busy modern programmer.](https://t.me/S_E_Book/700)
-* [Python for Finance Cookbook.](https://t.me/S_E_Book/701)
+* [Modern Python Cookbook: The latest in modern Python recipes for the busy modern programmer.](https://t.me/S_E_Book/700) - The recipes take a problem-solution approach to resolve issues commonly faced by Python programmers across the globe. You will be armed with the knowledge of creating applications with flexible logging, powerful configuration, and command-line options, automated unit tests, and good documentation.
+* [Python for Finance Cookbook.](https://t.me/S_E_Book/701) - This book is for financial analysts, data analysts, and Python developers who want to learn how to implement a broad range of tasks in the finance domain. Data scientists looking to devise intelligent financial strategies to perform efficient financial analysis will also find this book useful. Working knowledge of the Python programming language is mandatory to grasp the concepts covered in the book effectively.
 * [Learning Python for Forensics: Leverage the power of Python in forensic investigations, 2nd Edition.](https://t.me/S_E_Book/723) - The second edition of Learning Python for Forensics will illustrate how to develop Python scripts using an iterative design. Further, it demonstrates how to leverage the various built-in and community-sourced forensics scripts and libraries available for Python today. This book will help strengthen your analysis skills and efficiency as you creatively solve real-world problems through instruction-based tutorials.
 * [Mastering Python Scripting for System Administrators.](https://t.me/S_E_Book/753) - This book will initially cover Python installation and quickly revise basic to advanced programming fundamentals. The book will then focus on the development process as a whole, from setup to planning to building different tools. It will include IT administrators' routine activities (text processing, regular expressions, file archiving, and encryption), network administration (socket programming, email handling, the remote controlling of devices using telnet/ssh, and protocols such as SNMP/DHCP), building graphical user interface, working with websites (Apache log file processing, SOAP and REST APIs communication, and web scraping), and database administration (MySQL and similar database data administration, data analytics, and reporting).
 * [Effective Python Penetration Testing.](https://t.me/S_E_Book/763) - Penetration testing is a practice of testing a computer system, network, or web application to find weaknesses in security that an attacker can exploit. Effective Python Penetration Testing will help you utilize your Python scripting skills to safeguard your networks from cyberattacks. We will begin by providing you with an overview of Python scripting and penetration testing. You will learn to analyze network traffic by writing Scapy scripts and will see how to fingerprint web applications with Python libraries such as ProxMon and Spynner.
 * [Python for Offensive PenTest.](https://t.me/S_E_Book/792) - This book is packed with step-by-step instructions and working examples to make you a skilled penetration tester. It is divided into clear bite-sized chunks, so you can learn at your own pace and focus on the areas of most interest to you. This book will teach you how to code a reverse shell and build an anonymous shell. You will also learn how to hack passwords and perform a privilege escalation on Windows with practical examples. You will set up your own virtual hacking environment in VirtualBox, which will help you run multiple operating systems for your testing environment.
 * [Learning Python Networking.](https://t.me/S_E_Book/794) - Starting with a walk through of today's major networking protocols, through this book, you'll learn how to employ Python for network programming, how to request and retrieve web resources, and how to extract data in major formats over the web. You will utilize Python for emailing using different protocols, and you'll interact with remote systems and IP and DNS networking. You will cover the connection of networking devices and configuration using Python 3.7, along with cloud-based network management tasks using Python.
 * [Python Crash Course: A Hands-On, Project-Based Introduction to Programming.](https://t.me/S_E_Book/1113) - In the first half of the book, you'll learn about basic programming concepts, such as lists, dictionaries, classes, and loops, and practice writing clean and readable code with exercises for each topic. You'll also learn how to make your programs interactive and how to test your code safely before adding it to a project. In the second half of the book, you'll put your new knowledge into practice with three substantial projects: a Space Invaders-inspired arcade game, data visualizations with Python's super-handy libraries, and a simple web app you can deploy online.
-* [Python System Administration.](https://t.me/S_E_Book/1013)
+* [Python System Administration.](https://t.me/S_E_Book/1013) - In this book, you will find several projects in the categories of network administration, web server administration, and monitoring and database management. In each project, we will define the problem, design the solution, and go through the more interesting implementation steps.This book explains and shows how to apply Python scripting in practice. Unlike the majority of the Python books, it will show you how to approach and resolve real-world issues that most system administrators will come across in their careers.Each project is accompanied with the source code of a fully working prototype, which you’ll be able to use immediately or adapt to your requirements and environment.
 
 ## Arduino RU
 Книги, видео, полезный материал на тему Arduino. На Русском языке.
@@ -311,6 +303,15 @@
 Безопасность, приложения, книги, статьи.
 
 * [Коллекция ресурсов, связанных с безопасностью Android.](https://t.me/S_E_Book/1009) - Онлайн-анализаторы, инструменты статического анализа, сканеры уязвимостей приложений, инструменты динамического анализа и многое другое...
+
+## Termux
+* [Termux: Основы, утилиты, скрипты.](https://t.me/Social_engineering/1112)
+* [Sqlmap в Termux.](https://t.me/Social_engineering/1063) 
+* [Nmap в Termux.](https://t.me/Social_engineering/1044)
+* [WebSploit в Termux.](https://t.me/Social_engineering/995)
+* [UserRecon в Termux.](https://t.me/Social_engineering/915)
+* [Tool-X. Устанавливаем 370+ инструментов в Termux.](https://t.me/Social_engineering/1112)
+* [Metasploit-Framework в Termux.](https://t.me/Social_engineering/842)
 
 ## iOS
 Безопасность, приложения, книги, статьи.
@@ -390,20 +391,29 @@
 * [Очень много YouTube-каналов для прокачки английского языка для программистов.](https://t.me/S_E_Book/860) - С помощью YouTube можно ощутимо и сравнительно быстро улучшить английский. Понимание на слух как минимум. Истина не нова, но мало кто смотрит английский YouTube, потому что легко потеряться в бесконечности каналов. Но для вас я собрал самые стоящие каналы!
 
 ## CheatSheet
+
+* [Linux Commands. Cheat Sheet.](https://t.me/S_E_Book/1092)
+* [Linux Commands. Cheat Sheet. v2.](https://t.me/S_E_Book/742)
+* [Linux Commands. Cheat Sheet. v3.](https://t.me/S_E_Book/895)
+* [Kali Linux. Cheat Sheet.](https://t.me/S_E_Book/1054)
+* [Pentesting Cheat Sheet.](https://t.me/S_E_Book/1037)
+* [Penetration Testing Tools. Cheat Sheet.](https://t.me/S_E_Book/1090)
 * [Wireshark.Cheat Sheet.](https://t.me/S_E_Book/1052)
 * [Wireshark display filters.Cheat Sheet.](https://t.me/S_E_Book/1103)
+* [Nmap. Cheat Sheet.](https://t.me/S_E_Book/1071)
+* [Nmap - Cheatsheet. v2.](https://t.me/S_E_Book/1039)
+* [Шпаргалка по Tcpdump.](https://t.me/S_E_Book/1031)
 * [Metasploit.Cheat Sheet.](https://t.me/S_E_Book/1053)
 * [Metasploit.Cheat Sheet. v2.](https://t.me/S_E_Book/1093)
-* [Kali Linux. Cheat Sheet.](https://t.me/S_E_Book/1054)
+* [Metasploit.Cheat Sheet. v3.](https://t.me/S_E_Book/898)
 * [Hydra. Cheat Sheet.](https://t.me/S_E_Book/1070)
-* [Nmap. Cheat Sheet.](https://t.me/S_E_Book/1071)
 * [Empire. Cheat Sheet.](https://t.me/S_E_Book/1078)
 * [PowerSploit. Cheat Sheet.](https://t.me/S_E_Book/1079)
-* [Penetration Testing Tools. Cheat Sheet.](https://t.me/S_E_Book/1090)
+* [Responder - Cheat Sheet.](https://t.me/S_E_Book/1039)
 * [Aircrack-ng. Cheat Sheet.](https://t.me/S_E_Book/1091)
-* [Linux Commands. Cheat Sheet.](https://t.me/S_E_Book/1092)
-* [OSINT. Cheat Sheet.](https://t.me/S_E_Book/1101)
 * [SQLMap. Cheat Sheet.](https://t.me/S_E_Book/1105)
+* [OSINT. Cheat Sheet.](https://t.me/S_E_Book/1101)
+* [SQL Injection Cheat Sheet.](https://t.me/S_E_Book/888)
 * [JavaScript. Cheat Sheet.](https://t.me/S_E_Book/1112)
 * [Python Cheat Sheet.](https://t.me/S_E_Book/1112)
 * [Python Cheat Sheet. v2.](https://t.me/S_E_Book/1116)
