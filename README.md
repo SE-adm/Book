@@ -107,22 +107,22 @@
 * [Metasploit 5.0 for Beginners. 2020.](https://t.me/S_E_Book/944) - Securing an IT environment can be challenging, however, effective penetration testing and threat identification can make all the difference. This book will help you learn how to use the Metasploit Framework optimally for comprehensive penetration testing.
 * [Practical Web Penetration Testing.](https://t.me/S_E_Book/962) - Companies all over the world want to hire professionals dedicated to application security. Practical Web Penetration Testing focuses on this very trend, teaching you how to conduct application security testing using real-life scenarios.
 * [Learn Penetration Testing.](https://t.me/S_E_Book/971) - Sending information via the internet is not entirely private, as evidenced by the rise in hacking, malware attacks, and security threats. With the help of this book, you'll learn crucial penetration testing techniques to help you evaluate enterprise defenses.
-* [Web Penetration Testing.](https://t.me/S_E_Book/973)
+* [Web Penetration Testing.](https://t.me/S_E_Book/973) - Understanding the CSRF Vulnerability (A Beginner’s Guide); Cross-Site Scripting ExploitationComprehensive Guide on Cross-Site Scripting (XSS);Comprehensive Guide on Unrestricted File Upload;Comprehensive Guide on Open Redirect;Comprehensive Guide to Remote File Inclusion (RFI);Comprehensive Guide on HTML Injection;Comprehensive Guide on Path Traversal;
 * [Hands-On Penetration Testing on Windows.](https://t.me/S_E_Book/1010) - In this book, you'll learn advanced techniques to attack Windows environments from the indispensable toolkit that is Kali Linux. We'll work through core network hacking concepts and advanced Windows exploitation techniques, such as stack and heap overflows, precision heap spraying, and kernel exploitation, using coding principles that allow you to leverage powerful Python scripts and shellcode.
 * [Advanced Penetration Testing.](https://t.me/S_E_Book/1014) - This book integrates social engineering, programming, and vulnerability exploits into a multidisciplinary approach for targeting and compromising high security environments. From discovering and creating attack vectors, and moving unseen through a target enterprise, to establishing command and exfiltrating data―even from organizations without a direct Internet connection―this guide contains the crucial techniques that provide a more accurate picture of your system's defense. Custom coding examples use VBA, Windows Scripting Host, C, Java, JavaScript, Flash, and more, with coverage of standard library applications and the use of scanning tools to bypass common defensive measures.
 * [Kubernetes Cookbook: Practical solutions to container orchestration.](https://t.me/S_E_Book/1016) - Kubernetes is an open source orchestration platform to manage containers in a cluster environment. With Kubernetes, you can configure and deploy containerized applications easily. This book gives you a quick brush up on how Kubernetes works with containers, and an overview of main Kubernetes concepts, such as Pods, Deployments, Services and etc.
 * [Mastering Kubernetes: Large scale container deployment and management.](https://t.me/S_E_Book/1021) - This book mainly focuses on the advanced management of Kubernetes clusters. It covers problems that arise when you start using container orchestration in production. We start by giving you an overview of the guiding principles in Kubernetes design and show you the best practises in the fields of security, high availability, and cluster federation.
 * [Rootkits and Bootkits: Reversing Modern Malware and Next Generation Threats.](https://t.me/S_E_Book/417) - Ценнейший сборник информации о руткитах и буткитах, алгоритмах их работы, особенностях реализации в ОС, методах детектирования и противодействия.
-* [Linux Command Library.](https://t.me/S_E_Book/583) - Самоучитель в котором собраны основные команды, используемые при работе с UNIX системами.
 * [Kali Linux 2018.](https://t.me/S_E_Book/821) - Windows Penetration Testing: Conduct network testing, surveillance, and pen testing on MS Windows using Kali Linux 2018, 2nd Edition.
 * [Learning Kubernetes Video.](https://t.me/S_E_Book/1223) - Kubernetes is a market-leading cloud platform technology and is the best solution over other cloud platforms. Further, almost all of the major cloud infrastructure providers, such as AWS, Azure, and Google, offer hosted versions of Kubernetes.
+* [Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019).](https://t.me/S_E_Book/208) - Learn network penetration testing / ethical hacking in this full tutorial course for beginners. This course teaches everything you need to know to get started with ethical hacking and penetration testing. You will learn the practical skills necessary to work in the field. Throughout the course, we will develop our own Active Directory lab in Windows, make it vulnerable, hack it, and patch it. We'll cover the red and blue sides. We'll also cover some of the boring stuff like report writing.
 
 ## Информационная безопасность Manual
 Дополнительный полезный материал: софт, ресурсы, подборки, мануалы, статьи и многое другое...
 
-* [Интересное чтиво с BlackHat USA. 2019.](https://t.me/S_E_Book/194)
+* [Linux Command Library.](https://t.me/S_E_Book/583) - Самоучитель в котором собраны основные команды, используемые при работе с UNIX системами.
+* [BlackHat USA. 2019.](https://t.me/S_E_Book/194) - Интересное чтиво с BlackHat USA. 
 * [Поисковик эксплойтов - sploitus.](https://t.me/S_E_Book/199) - Позволяет искать по содержимому и имени в публичных эксплойтах, подбирать софт по его описанию, смотреть и скачивать их в два клика.
-* [Полный курс - тестирование на проникновение для начинающих (2019).](https://t.me/S_E_Book/208)
 * [PENETRATION TESTING PRACTICE LAB.](https://t.me/S_E_Book/279) - Полезные инструменты для реального тестирования безопасности ИТ-инфраструктуры.
 * [Интерактивный курс по веб-уязвимостям.](https://t.me/S_E_Book/280) - Hacksplaining представляет каталогизированный и наглядный онлайн-туториал по основным веб-уязвимостям. По каждой уязвимости представлено подробное описание, насколько часто встречается, как сложно ее эксплуатировать и уровень ее критичности. К каждой уязвимости приложено подробное описание, вектор эксплуатации, уязвимый код и рекомендации по устранению и защите. В качестве примера в статье приведен разбор одного из заданий по взлому виртуального онлайн-банкинга с помощью эксплуатации sql-инъекции.
 * [Trojanizer.](https://t.me/S_E_Book/287) - Инструмент Trojanizer использует WinRAR (SFX), чтоб сжать два файла между собой и преобразовать их в исполняемый архив SFX (.exe). SFX-архив при работе запускает оба файла. К примеру: наш payload и легальное приложение одновременно.
@@ -502,31 +502,3 @@
 * [Взлом принтеров.](https://t.me/S_E_Book/1162) - Взломать 50 000 сетевых принтеров и распечатать произвольный текст? Нет ничего прощеǃ
 * [Полезные трюки при работе с netcat.](https://t.me/S_E_Book/1163) - В данной статье я рассмотрю популярную сетевую утилиту netcat и полезные трюки при работе с ней.
 * [Awesome DevSecOps](https://t.me/S_E_Book/1176) - Подборка ресурсов по DevSecOps и AppSec. Инструменты, конференции, доклады, подкасты, фреймворки и многое другое...
-* [test](test) - 
-* [test](test) - 
-* [test](test) - 
-* [test](test) - 
-* [test](test) - 
-* [test](test) - 
-* [test](test) - 
-* [test](test) - 
-* [test](test) - 
-* [test](test) - 
-* [test](test) - 
-* [test](test) - 
-* [test](test) - 
-* [test](test) - 
-* [test](test) - 
-* [test](test) - 
-* [test](test) - 
-* [test](test) - 
-* [test](test) - 
-* [test](test) - 
-* [test](test) - 
-* [test](test) - 
-* [test](test) - 
-* [test](test) - 
-* [test](test) - 
-* [test](test) - 
-* [test](test) - 
-* [test](test) - 
