@@ -36,6 +36,7 @@
 
 * [С.А.Бабин.Инструментарий хакера.](https://t.me/S_E_Book/71) - В данной книге приведено множество примеров взлома и сокрытия следов: перехват паролей, атаки на Wi-Fi-роутеры, подмена MAC-адресов, способы оставаться невидимым в Интернете. Книга хорошо зайдет всем начинающим, будщим специалистам информационной безопасности.
 * [Пошаговое руководство по внедрению эксплойта в ядро Linux.](https://t.me/S_E_Book/291) - Это руководство для Вас будет как путеводитель по ядру в Linux, сопровождаемый практическим примером. Написание эксплоитов дает хорошее понимание схемы функционирования ядра. Кроме того, в данном руководстве есть различные отладочные техники, инструменты, наиболее распространенные подводные камни и методы решения возникающих проблем. Уязвимость CVE‑2017‑11176, именуемая также «mq_notify: double sock_put()», исправлена в большинстве дистрибутивов в середине 2017 года. В этом цикле рассматривается ядро версии 2.6.32.x, однако уязвимость присутствует во всех ядрах вплоть до версии 4.11.9. С одной стороны, рассматриваемая версия ядра достаточно старая, с другой – используется во множестве систем, а рассматриваемый код более легок для понимания.
+* [Книга о ядре Linux. linux-insides.](https://t.me/S_E_Book/291) - Путеводитель по ядру в Linux.
 * [Шоттс Уильям. Командная строка Linux. Полное руководство.](https://t.me/S_E_Book/303) - Уильям Шоттс знакомит вас с истинной философией Linux. Вы уже знакомы с Linux и настала пора нырнуть поглубже и познакомиться с возможностями командной строки. Командная строка - всегда с вами, от первого знакомства до написания полноценных программ в Bash - самой популярной оболочке Linux . Познакомьтесь с основами навигации по файловой системе, настройки среды, последовательностями команд, поиском по шаблону и многим другим.
 * [Linux от новичка к профессионалу.](https://t.me/S_E_Book/399) - Описание и установка популярных дистрибутивов (Fedora, openSUSE, CentOS, Unbuntu), Работа с файлами через командную строку. Введение в Bash, Управление пользователями и группами, Настройка WiFi и VPN, Управление ядром, Работа с VirtualBox.
 * [Unbuntu Linux с нуля.](https://t.me/S_E_Book/399) - Установка и первый запуск, Всё про файлы и файловую систему, Работа с консолью. Полезные команды терминала, Драйверы и стороннее оборудование, Установка ПО, запуск Windows-приложений, Службы, сервисы и демоны. Управление процессами, Подключение к удаленному рабочему столу, Виртуальные машины.
@@ -51,11 +52,22 @@
 * [Масалков Андрей Сергеевич. Особенности киберпреступлений. Инструменты нападения и защита информации.](https://t.me/S_E_Book/569) - Материал книги помогает разобраться в том, что обычно скрывается за терминами и шаблонными фразами "взлом электронной почты", "кибершпионаж" и "фишинг". Автор старался показать информационную безопасность как поле битвы с трех сторон: со стороны преступного сообщества, использующего информационные технологии, со стороны законодательства и правоохранительной системы и со стороны атакуемого.
 * [Кибербезопасность: стратегии атак и обороны.](https://t.me/S_E_Book/1027) - Когда ландшафт угроз постоянно расширяется, возникает необходимость иметь надежную стратегию в области безопасности, т.е. усиление защиты, обнаружения и реагирования. На протяжении этой книги вы будете изучать методы атак и шаблоны, позволяющие распознавать аномальное поведение в вашей организации, используя тактические приемы Синей команды. Вы также научитесь методам сбора данных об эксплуатации, выявления рисков и продемонстрируете влияние на стратегии Red Team и Blue Team.
 * [Справочник законодательства РФ в области Информационной Безопасности.](https://t.me/S_E_Book/145) - Все специалисты по информационной безопасности рано или поздно сталкиваются с вопросами законодательного регулирования своей деятельности. Первой проблемой при этом обычно является поиск документов, где прописаны те или иные требования. Данный справочник призван помочь в этой беде и содержит подборку ссылок на основные законодательные и нормативно-правовые акты, регламентирующие применение информационных технологий и обеспечение информационной безопасности в Российской Федерации.
-[Руководство пользователя Metasploit Pro.](https://t.me/S_E_Book/94) - Руководство пользователя Metasploit Pro. Переведено на Русский язык.
+* [Руководство пользователя Metasploit Pro.](https://t.me/S_E_Book/94) - Руководство пользователя Metasploit Pro. Переведено на Русский язык.
+* [Осваиваем Kubernetes. Оркестрация контейнерных архитектур. Сайфан Джиджи.](https://t.me/S_E_Book/1251) - Книга начинается с изучения основ Kubernetes, архитектуры и компоновки этой системы. Вы научитесь создавать микросервисы с сохранением состояния, ознакомитесь с такими продвинутыми возможностями, как горизонтальное автомасштабирование подов, выкатывание обновлений, квотирование ресурсов, обустроите долговременное хранилище на бэкенде. На реальных примерах вы исследуете возможности сетевой конфигурации, подключение и настройку плагинов.
 
 ## Информационная безопасность Eng
 Книги по информационной безопасности на Английском языке.
 
+* [PowerShell for Sysadmins: Workflow Automation Made Easy.](https://t.me/S_E_Book/1250) - PowerShell® is both a scripting language and an administrative shell that lets you control and automate nearly every aspect of IT. In PowerShell for Sysadmins, five-time Microsoft® MVP "Adam the Automator" Bertram shows you how to use PowerShell to manage and automate your desktop and server environments so that you can head out for an early lunch.
+* [Mastering Windows Security and Hardening.](https://t.me/S_E_Book/1237) - Mastering Windows Security and Hardening is a detailed guide that helps you gain expertise when implementing efficient security measures and creating robust defense solutions.
+* [Hash Crack: Password Cracking Manual (v3).](https://t.me/S_E_Book/1201) - The Hash Crack: Password Cracking Manual v3 is an expanded reference guide for password recovery (cracking) methods, tools, and analysis techniques. A compilation of basic and advanced techniques to assist penetration testers and network security professionals evaluate their organization's posture. The Hash Crack manual contains syntax and examples for the most popular cracking and analysis tools and will save you hours of research looking up tool usage. It also includes basic cracking knowledge and methodologies every security professional should know when dealing with password attack capabilities. Hash Crack contains all the tables, commands, online resources, and more to complete your cracking security kit. This version expands on techniques to extract hashes from a myriad of operating systems, devices, data, files, and images. Lastly, it contains updated tool usage and syntax for the most popular cracking tools.
+* [Gray Hat Hacking: The Ethical Hacker's Handbook, Fifth Edition.](https://t.me/S_E_Book/1204) - Fortify your network and avert digital catastrophe with proven strategies from a team of security experts. Completely updated and featuring 13 new chapters, Gray Hat Hacking, The Ethical Hacker’s Handbook, Fifth Edition explains the enemy’s current weapons, skills, and tactics and offers field-tested remedies, case studies, and ready-to-try testing labs. Find out how hackers gain access, overtake network devices, script and inject malicious code, and plunder Web applications and browsers. Android-based exploits, reverse engineering techniques, and cyber law are thoroughly covered in this state-of-the-art resource. And the new topic of exploiting the Internet of things is introduced in this edition.
+* [Web Penetration Testing with Kali Linux - Third Edition.](https://t.me/S_E_Book/1206) - Web Penetration Testing with Kali Linux - Third Edition shows you how to set up a lab, helps you understand the nature and mechanics of attacking websites, and explains classical attacks in great depth. This edition is heavily updated for the latest Kali Linux changes and the most recent attacks. Kali Linux shines when it comes to client-side attacks and fuzzing in particular.
+* [Mastering Linux Security and Hardening.](https://t.me/S_E_Book/1210) - From creating networks and servers to automating the entire working environment, Linux has been extremely popular with system administrators for the last couple of decades. However, security has always been a major concern. With limited resources available in the Linux security domain, this book will be an invaluable guide in helping you get your Linux systems properly secured.
+* [ Hands-On Security in DevOps.](https://t.me/S_E_Book/1213) - DevOps has provided speed and quality benefits with continuous development and deployment methods, but it does not guarantee the security of an entire organization. Hands-On Security in DevOps shows you how to adopt DevOps techniques to continuously improve your organization’s security at every level, rather than just focusing on protecting your infrastructure.
+* [Kali Linux - An Ethical Hacker's Cookbook.](https://t.me/S_E_Book/1193) - This ethical hacking book starts by helping you to install and configure Kali Linux. You'll learn how to plan attack strategies and perform web application exploitation using tools such as Burp and JexBoss. As you progress, you'll get to grips with using Metasploit, Sparta, and Wireshark for performing network exploitation. The book will also delve into the technique of carrying out wireless and password attacks using Patator, John the Ripper, and airoscript-ng, and then focus on a wide range of tools for forensic investigations and incident response mechanisms. In concluding chapters, you'll learn to create an optimum pentest report that covers structured details of the pentesting engagement.
+* [Linux Basics for Hackers.](https://t.me/S_E_Book/1194) - This practical, tutorial-style book uses the Kali Linux distribution to teach Linux basics with a focus on how hackers would use them. Topics include Linux command line basics, filesystems, networking, BASH basics, package management, logging, and the Linux kernel and drivers.
+* [The Internet in Everything.](https://t.me/S_E_Book/1186) - The Internet has leapt from human-facing display screens into the material objects all around us. In this so-called Internet of things—connecting everything from cars to cardiac monitors to home appliances—there is no longer a meaningful distinction between physical and virtual worlds. Everything is connected. The social and economic benefits are tremendous, but there is a downside: an outage in cyberspace can result not only in loss of communication but also potentially in loss of life.
 * [The HACKer's HARDWARE TOOLKit.](https://t.me/S_E_Book/105) - Очень занимательная книга по хакерскому железу с описанием, примерной ценой и небольшой спецификой применения.
 * [CISSP All-in-One Exam Guide.](https://t.me/S_E_Book/112) - Get complete coverage of the latest release of the Certified Information Systems Security Professional (CISSP) exam inside this comprehensive, fully updated resource. Written by the leading expert in IT security certification and training, this authoritative guide covers all 10 CISSP exam domains developed by the International Information Systems Security Certification Consortium (ISC2). You'll find learning objectives at the beginning of each chapter, exam tips, practice exam questions, and in-depth explanations. Designed to help you pass the CISSP exam with ease, this definitive volume also serves as an essential on-the-job reference
 * [Hacking: Hacking Practical Guide for Beginners.](https://t.me/S_E_Book/118) - Hacking. In the digital age the word conjures up images of individuals in darkened basements, breaking into multi-national company’s computer systems, leaking sensitive information and living on takeaways – never seeing the light of day. But reality is very different and there are many, who are novices at hacking, living perfectly everyday lives, who are eager to learn more on the subject.
@@ -103,6 +115,7 @@
 * [Rootkits and Bootkits: Reversing Modern Malware and Next Generation Threats.](https://t.me/S_E_Book/417) - Ценнейший сборник информации о руткитах и буткитах, алгоритмах их работы, особенностях реализации в ОС, методах детектирования и противодействия.
 * [Linux Command Library.](https://t.me/S_E_Book/583) - Самоучитель в котором собраны основные команды, используемые при работе с UNIX системами.
 * [Kali Linux 2018.](https://t.me/S_E_Book/821) - Windows Penetration Testing: Conduct network testing, surveillance, and pen testing on MS Windows using Kali Linux 2018, 2nd Edition.
+* [Learning Kubernetes Video.](https://t.me/S_E_Book/1223) - Kubernetes is a market-leading cloud platform technology and is the best solution over other cloud platforms. Further, almost all of the major cloud infrastructure providers, such as AWS, Azure, and Google, offer hosted versions of Kubernetes.
 
 ## Информационная безопасность Manual
 Дополнительный полезный материал: софт, ресурсы, подборки, мануалы, статьи и многое другое...
@@ -154,8 +167,12 @@
 * [MiTM Attack with Ettercap.](https://t.me/S_E_Book/1089)
 * [Атаки на домен.](https://t.me/S_E_Book/1095) - При проведении тестирований на проникновение мы довольно часто выявляем ошибки в конфигурации домена. Хотя многим это не кажется критичным, в реальности же такие неточности могут стать причиной компрометации всего домена.
 * [Tradecraft.](https://t.me/S_E_Book/1117) - это курс действий red team. Ты научишься проводить целевую атаку как внешний субъект с Cobalt Strike. В этом сегменте представлены Metasploit Framework, Cobalt Strike, и вы узнаете, как организованы оба этих инструмента.
-
-
+* [«Взлом Wi-Fi сетей с Kali Linux и BlackArch» (на русском языке).](https://t.me/S_E_Book/1167) - Подготовка рабочего окружения: железо и софт; Первые шаги по взлому Wi-Fi сетей, обход простых защит; Захват WPA / WPA2 рукопожатий; Взлом паролей из WPA / WPA2 рукопожатий; Взлом WPS пина; Автоматизированные атаки на Wi-Fi сети; Онлайн перебор ключей Wi-Fi; Социальная инженерия при взломе Wi-Fi сетей; Атаки с использованием Wi-Fi сетей; Атака на Wi-Fi точки доступа из глобальной и локальной сетей; Атаки вида «отказ в обслуживании» (DoS Wi-Fi); Атаки «Без клиентов» и «Без Точек Доступа»; Мониторинг беспроводных сетей и выявление атак на Wi-Fi; Перехват данных в сетях Wi-Fi после проникновения; Выявление перехвата данных в сетях Wi-Fi; Взлом Wi-Fi сетей из Windows.
+* [Анализ трафика GSM сетей в Wireshark.](https://t.me/S_E_Book/1168) - Запускаем GSM-сеть у себя дома, Анализ трафика GSM сетей в Wireshark, Добавляем GPRS в домашнюю GSM сеть, Практические примеры атак внутри GSM сети.
+* [Group Policy Hijacking В ДОМЕННЫХ СЕТЯХ | ОПИСАНИЕ | ДЕМОНСТРАЦИЯ | MITM.](https://t.me/S_E_Book/1173) - В видео продемонстрирована малоизвестная техника, которая позволяет получить права SYSTEM на клиентах доменной сети даже в 2020 году.
+* [Продвинутый взлом паролей с *Hashcat на русском языке.](https://t.me/S_E_Book/1180) - Обзор программ *Hashcat; Справочная информация по программам *Hashcat; Режимы атак *Hashcat; Взлом отдельных хешей с *Hashcat; Установка и решение проблем с *Hashcat; Подсказки и приёмы использования Hashcat.
+* [Тестирование на проникновение веб-сайтов.](https://t.me/S_E_Book/1187) - Подборка уязвимый сред для практики по взлому сайтов; Сбор информации;Сканеры уязвимостей веб-приложений; Уязвимости веб-сайтов. Подтверждение и эксплуатация уязвимостей; Брут-форс учётных записей; Закрепление доступа; Анонимность при исследовании веб-приложений; Фейерволы веб-приложений: выявление и техники обхода (Web Application Firewall (WAF)); Дополнительный материал для пентестеров веб-приложений и веб-мастеров.
+* [16 основных уязвимостей Active Directory.](https://t.me/S_E_Book/1192) - This list consist of 16 issues that are most commonly found during internal infrastructure penetration tests and vulnerability assessments. It’s nothing terribly sophisticated or new, simply a list of typical problems.
 
 ## Сетевые технологии RU
 Администрирование, Книги и курсы на Русском языке.
@@ -223,7 +240,8 @@
 * [Шейнов П.В.Скрытое управление человеком.](https://t.me/S_E_Book/121) - Эта книга не имеет аналогов в отечественной и зарубежной литературе. В ней исследованы предпосылки и технология скрытого управления и манипулирования. Даны многочисленные примеры применения этих приемов в отношениях между руководителями и подчиненными, деловыми партнерами, мужчинами и женщинами, родителями и детьми, учителями и учениками и т.д
 * [Шейнов В.П. Скрытое управление человеком.](https://t.me/S_E_Book/133) - Книга посвящена приемам воздействия на людей. В ней исследованы предпосылки и изучена технология скрытого управления и манипулирования. Даны многочисленные примеры применения этой технологии в отношениях между руководителями и подчиненными, женщинами и мужчинами, детьми и родителями, учителями и учениками и т. д. Книга помогает освоить данный способ управления людьми и учит защищаться от манипуляторов. Адресуется тем, кто желает добиться многого, опираясь на силу своего интеллекта.
 * [Безопасное общение, или Как стать неуязвимым.](https://t.me/S_E_Book/170) - Что нужно, чтобы стать неуязвимым? Возможно ли сохранять спокойствие в любой конфликтной ситуации, не превращаясь ни в молчаливого наблюдателя, ни в яростного борца за справедливость, ни в саркастического насмешника? Эта книга научит вас эффективной технике безопасного общения. С ее помощью вы сможете противостоять и легкому стрессу, и тяжелому прессингу
-* [Пол Экман. Узнай лжеца по выражению лица.](https://t.me/S_E_Book/239) - Вы заметите, если кто-то притворяется удивленным? А если кто-то испуган, но хочет выглядеть рассерженным, вам под силу это разглядеть? Насыщенная огромным количеством тщательно отобранных фотографий и специальных упражнений, эта книга позволит вам безошибочно распознавать ложь, моментально читая по лицам эмоции: как подлинные, так и "наигранные". Радость, удивление, страх, гнев, печаль, отвращение - ничто не ускользнет от вашего внимательного взгляда. 
+* [Пол Экман. Узнай лжеца по выражению лица.](https://t.me/S_E_Book/239) - Вы заметите, если кто-то притворяется удивленным? А если кто-то испуган, но хочет выглядеть рассерженным, вам под силу это разглядеть? Насыщенная огромным количеством тщательно отобранных фотографий и специальных упражнений, эта книга позволит вам безошибочно распознавать ложь, моментально читая по лицам эмоции: как подлинные, так и "наигранные". Радость, удивление, страх, гнев, печаль, отвращение - ничто не ускользнет от вашего внимательного взгляда.
+* [РАЗБОР НАСТОЯЩЕГО ДЕТЕКТИВА: Как СКРЫТО вытягивать информацию.](https://t.me/S_E_Book/1151) - Как Раст Коул из сериала "Настоящей детектив" скрыто получает информацию от людей? Как он использует их слабости? Как он добивается признаний? Весь секрет в том, что будучи детективом он ведет себя не как ДЕТЕКТИВ, но что это значит? Смотрите в разборе сериала "Настоящий детектив"
 
 ## Программирование RU
 Книги по программированию на Русском языке.
@@ -233,10 +251,13 @@
 * [Как устроен Python. Гид для разработчиков, программистов и интересующихся | Харрисон М.](https://t.me/S_E_Book/424) - Python - самый популярный язык программирования. Вакансии для Python-разработчиков входят в список самых высокооплачиваемых, а благодаря бурному развитию обработки данных, знание Python становится одним из самых востребованных навыков в среде аналитиков.
 * [Курс - Полное руководство по Python 3: от новичка до специалиста (2019).](https://t.me/S_E_Book/425) - Чему вы научитесь: Писать простые программы на Python 3. Как писать простые игры типа крестиков-ноликов. Логика с условиями и циклами. Объектно-ориентированное программирование на Python. Использование Jupyter Notebook. Использование коллекций в Python: списки, словари и так далее. Декораторы. Неизменяемые объекты. Лучшие практики по написанию "чистого" кода на Python. Введение в SQL и PostgreSQL.
 * [Python. Экспресс-курс | Седер Наоми.](https://t.me/S_E_Book/1107) - Впервые на русском языке выходит новое издание одной из самых популярных книг издательства Manning. С помощью этой книги вы можете быстро перейти от основ к управлению и структурам данных, чтобы создавать, тестировать и развертывать полноценные приложения. Наоми Седер рассказывает не только об основных особенностях языка Python, но и его объектно-ориентированных возможностях, которые появились в Python 3. Данное издание учитывает все изменения, которые произошли с языком за последние 5 лет, а последние 5 глав рассказывают о работе с большими данными.
+* [Чистый Python. Тонкости программирования для профи.](https://t.me/S_E_Book/1160) - Изучение всех возможностей Python - сложная задача, а с этой книгой вы сможете сосредоточиться на практических навыках, которые действительно важны. Раскопайте "скрытое золото" в стандартной библиотеке Python и начните писать чистый код уже сегодня.
+* [Джульен Данжу: Путь Python. Черный пояс по разработке, масштабированию, тестированию и развертыванию. 2020.](https://t.me/S_E_Book/1226) - "Путь Python" позволяет отточить ваши профессиональные навыки и узнать как можно больше о возможностях самого популярного языка программирования. Эта книга написана для разработчиков и опытных программистов. Вы научитесь писать эффективный код, создавать лучшие программы за минимальное время и избегать распространенных ошибок. Пора познакомиться с многопоточными вычислениями и мемоизацией, получить советы экспертов в области дизайна API и баз данных, а также заглянуть внутрь Python, чтобы расширит понимание языка.
 
 ## Программирование Eng
 Книги по программированию на Английском языке.
 
+* [Learn Java 12 Programming.](https://t.me/S_E_Book/1178) - Java is one of the preferred languages among developers, used in everything right from smartphones, and game consoles to even supercomputers, and its new features simply add to the richness of the language. This book on Java programming begins by helping you learn how to install the Java Development Kit. You will then focus on understanding object-oriented programming (OOP), with exclusive insights into concepts like abstraction, encapsulation, inheritance, and polymorphism, which will help you when programming for real-world apps.
 * [Modern Python Cookbook: The latest in modern Python recipes for the busy modern programmer.](https://t.me/S_E_Book/700) - The recipes take a problem-solution approach to resolve issues commonly faced by Python programmers across the globe. You will be armed with the knowledge of creating applications with flexible logging, powerful configuration, and command-line options, automated unit tests, and good documentation.
 * [Python for Finance Cookbook.](https://t.me/S_E_Book/701) - This book is for financial analysts, data analysts, and Python developers who want to learn how to implement a broad range of tasks in the finance domain. Data scientists looking to devise intelligent financial strategies to perform efficient financial analysis will also find this book useful. Working knowledge of the Python programming language is mandatory to grasp the concepts covered in the book effectively.
 * [Learning Python for Forensics: Leverage the power of Python in forensic investigations, 2nd Edition.](https://t.me/S_E_Book/723) - The second edition of Learning Python for Forensics will illustrate how to develop Python scripts using an iterative design. Further, it demonstrates how to leverage the various built-in and community-sourced forensics scripts and libraries available for Python today. This book will help strengthen your analysis skills and efficiency as you creatively solve real-world problems through instruction-based tutorials.
@@ -246,6 +267,10 @@
 * [Learning Python Networking.](https://t.me/S_E_Book/794) - Starting with a walk through of today's major networking protocols, through this book, you'll learn how to employ Python for network programming, how to request and retrieve web resources, and how to extract data in major formats over the web. You will utilize Python for emailing using different protocols, and you'll interact with remote systems and IP and DNS networking. You will cover the connection of networking devices and configuration using Python 3.7, along with cloud-based network management tasks using Python.
 * [Python Crash Course: A Hands-On, Project-Based Introduction to Programming.](https://t.me/S_E_Book/1113) - In the first half of the book, you'll learn about basic programming concepts, such as lists, dictionaries, classes, and loops, and practice writing clean and readable code with exercises for each topic. You'll also learn how to make your programs interactive and how to test your code safely before adding it to a project. In the second half of the book, you'll put your new knowledge into practice with three substantial projects: a Space Invaders-inspired arcade game, data visualizations with Python's super-handy libraries, and a simple web app you can deploy online.
 * [Python System Administration.](https://t.me/S_E_Book/1013) - In this book, you will find several projects in the categories of network administration, web server administration, and monitoring and database management. In each project, we will define the problem, design the solution, and go through the more interesting implementation steps.This book explains and shows how to apply Python scripting in practice. Unlike the majority of the Python books, it will show you how to approach and resolve real-world issues that most system administrators will come across in their careers.Each project is accompanied with the source code of a fully working prototype, which you’ll be able to use immediately or adapt to your requirements and environment.
+* [Expert Python Programming.](https://t.me/S_E_Book/1170) - The book will start by taking you through the new features in Python 3.7. You'll then learn the advanced components of Python syntax, in addition to understanding how to apply concepts of various programming paradigms, including object-oriented programming, functional programming, and event-driven programming.
+* [Microservices Security in Action.](https://t.me/S_E_Book/1184) - Microservices Security in Action teaches you how to address microservices-specific security challenges throughout the system. This practical guide includes plentiful hands-on exercises using industry-leading open-source tools and examples using Java and Spring Boot.
+* [List of Free Python Resources.](https://t.me/S_E_Book/1233) - Python is considered as a beginner-friendly programming language and its community provides many free resources for beginners and more advanced users. Our team had gathered the most helpful free materials about Python. Below you will find the whole list. If we missed something, that you would like to recommend leave a comment! We will update our list!
+* [Learning Python Networking.](https://t.me/S_E_Book/1258) - As the book progresses, socket programming will be covered, followed by how to design servers, and the pros and cons of multithreaded and event-driven architectures. You'll develop practical clientside applications, including web API clients, email clients, SSH, and FTP. These applications will also be implemented through existing web application frameworks.
 
 ## Arduino RU
 Книги, видео, полезный материал на тему Arduino. На Русском языке.
@@ -284,6 +309,7 @@
 * [Сикорски Майкл, Хониг Эндрю. Вскрытие покажет! Практический анализ вредоносного ПО.](https://t.me/S_E_Book/497) - Анализ вредоносного ПО напоминает игру в кошки-мышки: никаких правил, ситуация постоянно меняется. Поэтому в данном случае имеет смысл изучать лишь неустаревающие вещи и алгоритмы. Как только перед вами встает задача защитить сеть (или тысячу сетей), вы приступаете к такому анализу, и без этой книги вам попросту не обойтись.
 * [Android Malware Sandbox.](https://t.me/S_E_Book/521) - виртуальная машина для быстрого запуска малвари.
 * [История компьютерных вирусов (Перевод).](https://t.me/S_E_Book/617)
+* [Превращение ssh клиента в червя.](https://t.me/S_E_Book/873)
 
 ## Malware analysis Eng
 Книги и курсы на Английском языке
@@ -291,7 +317,7 @@
 * [Mastering Malware Analysis.](https://t.me/S_E_Book/703) - With the proliferation of technology and increase in prominent ransomware attacks, malware analysis has become a trending topic in recent years. With the help of this book, you'll be able to mitigate the risk of encountering malicious code and malware. Mastering Malware Analysis explains the universal patterns behind different malicious software types and how to analyze them using a variety of approaches. You'll learn how to examine malware code, determine the damage it can cause to your systems, and prevent it from propagating. This book even covers all aspects of malware analysis for the Windows platform in detail. As you advance, you'll get to grips with obfuscation as well as delve into anti-disassembly, anti-debugging, and anti-virtual machine techniques. Throughout the course of this book, you'll explore real-world examples of static and dynamic malware analysis, unpacking and decrypting, and rootkit detection, and learn to deal with modern cross-platform malware. Finally, you'll study how to strengthen your defenses and prevent malware breaches for IoT devices and mobile platforms.
 * [Malware Data Science: Attack Detection and Attribution.](https://t.me/S_E_Book/767) - Malware Data Science explains how to identify, analyze, and classify large-scale malware using machine learning and data visualization. Security has become a "big data" problem. The growth rate of malware has accelerated to tens of millions of new files per year while our networks generate an ever-larger flood of security-relevant data each day. In order to defend against these advanced attacks, you'll need to know how to think like a data scientist. In Malware Data Science, security data scientist Joshua Saxe introduces machine learning, statistics, social network analysis, and data visualization, and shows you how to apply these methods to malware detection and analysis. 
 * [Learning Malware Analysis.](https://t.me/S_E_Book/770) - This book introduces you to the basics of malware analysis, and then gradually progresses into the more advanced concepts of code analysis and memory forensics. It uses real-world malware samples, infected memory images, and visual diagrams to help you gain a better understanding of the subject and to equip you with the skills required to analyze, investigate, and respond to malware-related incidents.
-* [Превращение ssh клиента в червя.](https://t.me/S_E_Book/873)
+* [Practical Binary Analysis: Build Your Own Linux Tools for Binary Instrumentation, Analysis, and Disassembly.](https://t.me/S_E_Book/1164) - This hands-on guide teaches you how to tackle the fascinating but challenging topics of binary analysis and instrumentation and helps you become proficient in an area typically only mastered by a small group of expert hackers. It will take you from basic concepts to state-of-the-art methods as you dig into topics like code injection, disassembly, dynamic taint analysis, and binary instrumentation. 
 
 ## CTF
 * [Список библиотек, ресурсов, ПО и учебных пособий.](https://t.me/S_E_Book/608)
@@ -380,10 +406,12 @@
 * [iOS Forensics Cookbook.](https://t.me/S_E_Book/782) - If you are an iOS application developer who wants to learn about a test flight, hockey app integration, and recovery tools, then this book is for you. This book will be helpful for students learning forensics, as well as experienced iOS developers.
 * [Mastering Mobile Forensics.](https://t.me/S_E_Book/784) - Mobile forensics presents a real challenge to the forensic community due to the fast and unstoppable changes in technology. This book aims to provide the forensic community an in-depth insight into mobile forensic techniques when it comes to deal with recent smartphones operating systems.
 * [Practical Mobile Forensics - Second Edition.](https://t.me/S_E_Book/786) - A hands-on guide to mastering mobile forensics for the iOS, Android, and the Windows Phone platforms About This Book Get to grips with the basics of mobile forensics and the various forensic approaches Retrieve and analyze the data stored on mobile devices and on the loud A practical guide to leverage the power of mobile forensics on the popular mobile platforms with lots of tips, tricks and caveats Who This Book Is For This book is for forensics professionals who are eager to widen their forensics skillset to mobile forensics and acquire data from mobile devices.
+* [Fundamentals of Digital Forensics.](https://t.me/S_E_Book/1188) - This hands-on textbook provides an accessible introduction to the fundamentals of digital forensics. The text contains thorough coverage of the theoretical foundations, explaining what computer forensics is, what it can do, and also what it can’t. A particular focus is presented on establishing sound forensic thinking and methodology, supported by practical guidance on performing typical tasks and using common forensic tools. Emphasis is also placed on universal principles, as opposed to content unique to specific legislation in individual countries.
 * [Форензика Android: взлом графического ключа.](https://t.me/S_E_Book/1001)
 * [10 инструментов для форензики, которые работают в Linux.](https://t.me/S_E_Book/1047)
 * [Top 20 Free Digital Forensic Investigation Tools for SysAdmins.](https://t.me/S_E_Book/1048)
 * [Awesome Forensics.](https://t.me/S_E_Book/1094) - Curated list of awesome free (mostly open source) forensic analysis tools and resources.
+* [Practical Cyber Forensics.](https://t.me/S_E_Book/1241) - Become an effective cyber forensics investigator and gain a collection of practical, efficient techniques to get the job done.
 
 
 ## Изучение английского языка
@@ -397,12 +425,16 @@
 * [Linux Commands. Cheat Sheet. v3.](https://t.me/S_E_Book/895)
 * [Kali Linux. Cheat Sheet.](https://t.me/S_E_Book/1054)
 * [Pentesting Cheat Sheet.](https://t.me/S_E_Book/1037)
+* [Awesome Pentest Cheat Sheets.](https://t.me/S_E_Book/1156)
 * [Penetration Testing Tools. Cheat Sheet.](https://t.me/S_E_Book/1090)
+* [Windows Red Team Cheat Sheet.](https://t.me/S_E_Book/1191)
 * [Wireshark.Cheat Sheet.](https://t.me/S_E_Book/1052)
+* [Wireshark Cheat Sheets v2.](https://t.me/S_E_Book/1222)
 * [Wireshark display filters.Cheat Sheet.](https://t.me/S_E_Book/1103)
 * [Nmap. Cheat Sheet.](https://t.me/S_E_Book/1071)
 * [Nmap - Cheatsheet. v2.](https://t.me/S_E_Book/1039)
 * [Шпаргалка по Tcpdump.](https://t.me/S_E_Book/1031)
+* [tcpdump Cheat Sheet.](https://t.me/S_E_Book/1174)
 * [Metasploit.Cheat Sheet.](https://t.me/S_E_Book/1053)
 * [Metasploit.Cheat Sheet. v2.](https://t.me/S_E_Book/1093)
 * [Metasploit.Cheat Sheet. v3.](https://t.me/S_E_Book/898)
@@ -413,10 +445,15 @@
 * [Aircrack-ng. Cheat Sheet.](https://t.me/S_E_Book/1091)
 * [SQLMap. Cheat Sheet.](https://t.me/S_E_Book/1105)
 * [OSINT. Cheat Sheet.](https://t.me/S_E_Book/1101)
+* [OSCP Cheat Sheet.](https://t.me/S_E_Book/1175)
+* [Awesome CTF Cheatsheet.](https://t.me/S_E_Book/1177)
+* [Capture The Flag Cheatsheet.](https://t.me/S_E_Book/1197)
 * [SQL Injection Cheat Sheet.](https://t.me/S_E_Book/888)
+* [SQL Window Functions Cheat Sheet.](https://t.me/S_E_Book/1182)
 * [JavaScript. Cheat Sheet.](https://t.me/S_E_Book/1112)
 * [Python Cheat Sheet.](https://t.me/S_E_Book/1112)
 * [Python Cheat Sheet. v2.](https://t.me/S_E_Book/1116)
+
 
 ## Прочее
 Ресурсы и статьи.
@@ -459,3 +496,37 @@
 * [RedTeam Gadgets.](https://t.me/S_E_Book/1081)
 * [Список руководств, инструментов и других ресурсов, связанных с безопасностью и взломом замков, сейфов и ключей.](https://t.me/S_E_Book/1104)
 * [Awesome IoT Hacks.](https://t.me/S_E_Book/1108)
+* [Анализ фишинговой атаки на клиентов HalykBank (RU).](https://t.me/S_E_Book/1152)
+* [WiFi Арсенал.](https://t.me/S_E_Book/1154) - Очень много полезного софта на все случаи жизни.
+* [Sn1per.](https://t.me/S_E_Book/1157) - Автоматизированный инструмент разведки и сканирования на проникновение. Программа может быть использована во время теста на проникновение для перечисления и сканирования уязвимостей.
+* [Взлом принтеров.](https://t.me/S_E_Book/1162) - Взломать 50 000 сетевых принтеров и распечатать произвольный текст? Нет ничего прощеǃ
+* [Полезные трюки при работе с netcat.](https://t.me/S_E_Book/1163) - В данной статье я рассмотрю популярную сетевую утилиту netcat и полезные трюки при работе с ней.
+* [Awesome DevSecOps](https://t.me/S_E_Book/1176) - Подборка ресурсов по DevSecOps и AppSec. Инструменты, конференции, доклады, подкасты, фреймворки и многое другое...
+* [test](test) - 
+* [test](test) - 
+* [test](test) - 
+* [test](test) - 
+* [test](test) - 
+* [test](test) - 
+* [test](test) - 
+* [test](test) - 
+* [test](test) - 
+* [test](test) - 
+* [test](test) - 
+* [test](test) - 
+* [test](test) - 
+* [test](test) - 
+* [test](test) - 
+* [test](test) - 
+* [test](test) - 
+* [test](test) - 
+* [test](test) - 
+* [test](test) - 
+* [test](test) - 
+* [test](test) - 
+* [test](test) - 
+* [test](test) - 
+* [test](test) - 
+* [test](test) - 
+* [test](test) - 
+* [test](test) - 
